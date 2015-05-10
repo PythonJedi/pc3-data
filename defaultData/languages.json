@@ -1,0 +1,12 @@
+{
+"java":{
+	"name":"Java",
+	"compile":"javac {base}.java",
+	"run":"java {base}"
+	},
+"c++":{
+	"name":"C++",
+	"compile":"g++ {base}.cxx",
+	"run":"./a.out"
+	}
+}
